@@ -69,15 +69,4 @@ Instead, participants must rely on **pattern analysis, entropy evaluation, and c
 📧 **Send submissions to:** wotz101@gmail.com  
 
 ---
-
-## **🛠️ Next Steps Before Public Launch**
-
-🔲 **Upload encrypted test files.**  
-🔲 **Finalize submission instructions.**  
-🔲 **Test the attack tools & verify functionality.**  
-🔲 **Prepare GitHub Discussions for participant engagement.**  
-🔲 **Launch and promote on cybersecurity platforms!**  
-
----
-
 🚀 **NeurO-Challenge is coming soon! Stay tuned!** 🔐
