@@ -27,6 +27,17 @@ Participants must **decrypt at least one of the encrypted test files** and prove
 - ❌ **No modifications to the encryption system source code.**
 - ✅ **Only analytical, pattern-based, or cryptanalysis methods allowed.**
 
+### **❓ Why Are Brute Force & Other Attacks Not Allowed?**
+NeurO Encryption is designed to be **resistant to traditional attack methods** due to its **dynamic folding structure, high entropy transformations, and AI-resistant encoding.** Here’s why these attacks won’t work:
+
+🔹 **Brute Force Attacks:** The encryption keys use high entropy and dynamic transformations, making exhaustive key searching infeasible—even with quantum computing.
+
+🔹 **Dictionary Attacks:** NeurO does not rely on human-set passwords but instead uses cryptographic keys, making dictionary-based approaches useless.
+
+🔹 **Rainbow Table Attacks:** Each encryption is uniquely randomized with entropy injections, preventing the creation of precomputed decryption tables.
+
+Instead, participants must rely on **pattern analysis, entropy evaluation, and cryptographic weaknesses (if any) to succeed.**
+
 ### **🏆 Rewards:**
 - 🎖 **Leaderboard recognition** for those who make progress.
 - 📜 **Acknowledgment in security research publications.**
@@ -52,24 +63,9 @@ Participants must **decrypt at least one of the encrypted test files** and prove
 
 1️⃣ **Download the encrypted test cases from `/test_cases/`.**  
 2️⃣ **Use your own cryptanalysis tools or the provided attack framework.**  
-3️⃣ **If you successfully decrypt a file, submit your findings:**
-   - The decrypted text.
-   - Steps taken to break the encryption.
-   - Any discovered weaknesses or patterns.
+3️⃣ **If you successfully decrypt a file, submit your findings via email:**  
+   - The decrypted text.  
+   - Steps taken to break the encryption.  
+   - Any discovered weaknesses or patterns.  
 
-🔗 **Submission Form:** `/docs/submission.md` (to be added).
-
----
-
-## **🛠️ Next Steps Before Public Launch**
-
-🔲 **Upload encrypted test files.**  
-🔲 **Finalize submission instructions.**  
-🔲 **Test the attack tools & verify functionality.**  
-🔲 **Prepare GitHub Discussions for participant engagement.**  
-🔲 **Launch and promote on cybersecurity platforms!**  
-
----
-
-🚀 **NeurO-Challenge is coming soon! Stay tuned!** 🔐
-
+📧 **Send submissions to:** wotz101@gmail.com  
