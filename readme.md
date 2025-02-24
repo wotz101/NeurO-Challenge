@@ -24,7 +24,6 @@ Participants must **decrypt at least one of the encrypted test files** and prove
 
 ### **🚫 Restrictions:**
 - ❌ **No brute force, rainbow tables, or precomputed attacks.**
-- ❌ **No modifications to the encryption system source code.**
 - ✅ **Only analytical, pattern-based, or cryptanalysis methods allowed.**
 
 ### **❓ Why Are Brute Force & Other Attacks Not Allowed?**
@@ -55,7 +54,7 @@ Instead, participants must rely on **pattern analysis, entropy evaluation, and c
 🔹 **Provided Attack Tools:**  
 - **Entropy Analysis Tool** (measure randomness and detect patterns).  
 - **Pattern Detection Script** (analyze potential folding sequences).  
-- **Sample Encrypted Messages** (compare known plaintext vs. ciphertext).  
+- **Encrypted Sample Files** (provided for cryptanalysis and entropy analysis).  
 
 ---
 
@@ -69,3 +68,17 @@ Instead, participants must rely on **pattern analysis, entropy evaluation, and c
    - Any discovered weaknesses or patterns.  
 
 📧 **Send submissions to:** wotz101@gmail.com  
+
+---
+
+## **🛠️ Next Steps Before Public Launch**
+
+🔲 **Upload encrypted test files.**  
+🔲 **Finalize submission instructions.**  
+🔲 **Test the attack tools & verify functionality.**  
+🔲 **Prepare GitHub Discussions for participant engagement.**  
+🔲 **Launch and promote on cybersecurity platforms!**  
+
+---
+
+🚀 **NeurO-Challenge is coming soon! Stay tuned!** 🔐
