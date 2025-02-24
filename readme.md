@@ -29,11 +29,10 @@ Participants must **decrypt at least one of the encrypted test files** and prove
 ### **❓ Why Are Brute Force & Other Attacks Not Allowed?**
 NeurO Encryption is designed to be **resistant to traditional attack methods** due to its **dynamic folding structure, high entropy transformations, and AI-resistant encoding.** Here’s why these attacks won’t work:
 
-🔹 **Brute Force Attacks:** The encryption keys use high entropy and dynamic transformations, making exhaustive key searching infeasible—even with quantum computing.
+🔹 **Standard brute-force methods are infeasible** due to the encryption's dynamic transformations and entropy layers.
+🔹 **Dictionary-based decryption attempts will not succeed** as NeurO does not use password-based security.
+🔹 **Precomputed attacks (such as Rainbow Tables) are ineffective**, as every encryption instance is uniquely randomized.
 
-🔹 **Dictionary Attacks:** NeurO does not rely on human-set passwords but instead uses cryptographic keys, making dictionary-based approaches useless.
-
-🔹 **Rainbow Table Attacks:** Each encryption is uniquely randomized with entropy injections, preventing the creation of precomputed decryption tables.
 
 Instead, participants must rely on **pattern analysis, entropy evaluation, and cryptographic weaknesses (if any) to succeed.**
 
